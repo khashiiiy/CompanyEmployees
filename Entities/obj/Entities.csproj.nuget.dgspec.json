@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj": {}
+    "/Users/oliver/Desktop/Project/CompanyEmployees/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj": {
+    "/Users/oliver/Desktop/Project/CompanyEmployees/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/oliver/Desktop/Project/CompanyEmployees/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj",
+        "projectPath": "/Users/oliver/Desktop/Project/CompanyEmployees/Entities/Entities.csproj",
         "packagesPath": "/Users/oliver/.nuget/packages/",
-        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/obj/",
+        "outputPath": "/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oliver/.nuget/NuGet/NuGet.Config"

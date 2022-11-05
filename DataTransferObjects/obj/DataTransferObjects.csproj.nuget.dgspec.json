@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {}
+    "/Users/oliver/Desktop/Project/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {}
   },
   "projects": {
-    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {
+    "/Users/oliver/Desktop/Project/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
+        "projectUniqueName": "/Users/oliver/Desktop/Project/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
         "projectName": "DataTransferObjects",
-        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
+        "projectPath": "/Users/oliver/Desktop/Project/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
         "packagesPath": "/Users/oliver/.nuget/packages/",
-        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/",
+        "outputPath": "/Users/oliver/Desktop/Project/CompanyEmployees/DataTransferObjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oliver/.nuget/NuGet/NuGet.Config"

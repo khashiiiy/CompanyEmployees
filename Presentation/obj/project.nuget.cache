@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8CydJcX5NN6hh5JbMUZmUHudfVIvva9EQgdWZiogHJ3bN+O3Aigkn8qMxKk9Mf0AmG8Irjfl6QAPINHLaFRBw==",
+  "dgSpecHash": "Hmui4orNaKXoF7ShmX0H9V5suMIos+uMAugfG51j1nDrvl+hyyUE2ZE84r8HFB6vX3KeUci0Ipzit9AxADUXHw==",
   "success": true,
-  "projectFilePath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj",
+  "projectFilePath": "/Users/oliver/Desktop/Project/CompanyEmployees/Presentation/Presentation.csproj",
   "expectedPackageFiles": [
     "/Users/oliver/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/Users/oliver/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

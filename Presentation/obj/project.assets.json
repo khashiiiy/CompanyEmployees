@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj",
+      "projectUniqueName": "/Users/oliver/Desktop/Project/CompanyEmployees/Presentation/Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj",
+      "projectPath": "/Users/oliver/Desktop/Project/CompanyEmployees/Presentation/Presentation.csproj",
       "packagesPath": "/Users/oliver/.nuget/packages/",
-      "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/obj/",
+      "outputPath": "/Users/oliver/Desktop/Project/CompanyEmployees/Presentation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oliver/.nuget/NuGet/NuGet.Config"
@@ -4132,8 +4132,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj"
+            "/Users/oliver/Desktop/Project/CompanyEmployees/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/oliver/Desktop/Project/CompanyEmployees/Contracts/Contracts.csproj"
             }
           }
         }

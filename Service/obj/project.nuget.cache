@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tu6yMXRl9+jxO94IU9dPnz8ufguKGEYAR01299hQAVorrTxz8aaPZxrc2y3hrhEAwwpQ8aMvstZoMF/pkgNGCA==",
+  "dgSpecHash": "6KtenDQuJU3qLWYWBsIUZRTutlzlRCtclPHySoiZMLEzFMfFkLEitDmtxUILir23qdPxZwcbF2vfVEBtqJOjzA==",
   "success": true,
-  "projectFilePath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj",
+  "projectFilePath": "/Users/oliver/Desktop/Project/CompanyEmployees/Service/Service.csproj",
   "expectedPackageFiles": [
     "/Users/oliver/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/oliver/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

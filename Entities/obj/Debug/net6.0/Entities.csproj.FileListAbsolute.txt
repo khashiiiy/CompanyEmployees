@@ -10,3 +10,15 @@
 /Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/obj/Debug/net6.0/refint/Entities.dll
 /Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.pdb
 /Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.dll
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.dll
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/oliver/Desktop/Project/CompanyEmployees/Entities/obj/Debug/net6.0/ref/Entities.dll
