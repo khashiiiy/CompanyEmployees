@@ -1,0 +1,12 @@
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/bin/Debug/net6.0/DataTransferObjects.deps.json
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/bin/Debug/net6.0/DataTransferObjects.dll
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/bin/Debug/net6.0/DataTransferObjects.pdb
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.csproj.AssemblyReference.cache
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.AssemblyInfoInputs.cache
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.AssemblyInfo.cs
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.csproj.CoreCompileInputs.cache
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.dll
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/refint/DataTransferObjects.dll
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/DataTransferObjects.pdb
+/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/Debug/net6.0/ref/DataTransferObjects.dll

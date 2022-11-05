@@ -1,0 +1,2 @@
+2022-09-07 08:13:20.1439 INFO Logger is currently working.
+2022-09-07 08:35:49.8096 INFO Logger is currently working.

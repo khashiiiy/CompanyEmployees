@@ -1,0 +1,528 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {}
+  },
+  "projects": {
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "projectName": "CompanyEmployees",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/CompanyEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/LoggerService.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/LoggerService.csproj"
+              },
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj"
+              },
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/Repository.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/Repository.csproj"
+              },
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22376.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj"
+              },
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
+        "projectName": "DataTransferObjects",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/DataTransferObjects.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/DataTransferObjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/Presentation.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/Repository.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj"
+              },
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22376.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22376.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22376.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22376.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/Service.csproj",
+        "packagesPath": "/Users/oliver/.nuget/packages/",
+        "outputPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oliver/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/oliver/Projects/RiderProjects/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
